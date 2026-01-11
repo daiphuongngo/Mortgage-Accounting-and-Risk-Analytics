@@ -2,4 +2,4 @@
 
 ## Developer: **Dai-Phuong Ngo (Liam)**
 
-## Development for: **Accounting, Finance** & **Risk**
+## Domains: **Accounting, Finance** & **Risk**
